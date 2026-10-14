@@ -27,7 +27,7 @@ You can create up to **5 custom API keys** with:
 |------------|--------------------------------------------------|
 | Real-Time  | Verify a single email instantly                  |
 | Batch      | Verify up to 100 emails in one request           |
-| Bulk       | Use the Datastreams.ai platform to accomplish it |
+| Bulk       | Use the validateemails.co platform to accomplish it |
 
 ---
 
@@ -148,7 +148,7 @@ curl -X POST "https://api.datastreams.com/api/v1/batch_email_verify" \
 
 For technical assistance:
 
-support@datastreams.ai
+support@validateemails.co
 
 ---
 
